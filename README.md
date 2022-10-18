@@ -1,0 +1,1 @@
+This is the readme for my first odin project, project. odin-recipes will be a learning exercise meant to display my rudimentary html knowledge.
